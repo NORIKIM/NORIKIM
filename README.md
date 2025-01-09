@@ -30,7 +30,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-### Latest Blog Posts
+**📚 Latest Blog Posts**
 
 - [애자일](https://ggool.tistory.com/257)
 - [F-lab) iOS 1개월 후기](https://ggool.tistory.com/256)
