@@ -32,9 +32,9 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 #### 📚 Latest Blog Posts
 
+- [fastlane/ 설치](https://ggool.tistory.com/259)
 - [README 꾸미기](https://ggool.tistory.com/258)
 - [애자일](https://ggool.tistory.com/257)
 - [해시](https://ggool.tistory.com/255)
 - [프로그래머스: 해시 - 완주하지 못한 선수](https://ggool.tistory.com/254)
-- [프로그래머스: 해시 - 포켓몬](https://ggool.tistory.com/252)
 
