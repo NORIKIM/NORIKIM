@@ -32,9 +32,9 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 #### 📚 Latest Blog Posts
 
+- [fastlane/TestFlight](https://ggool.tistory.com/261)
 - [fastlane/ App Store Connect 앱 자동 생성](https://ggool.tistory.com/260)
 - [fastlane/ 설치](https://ggool.tistory.com/259)
 - [README 꾸미기](https://ggool.tistory.com/258)
 - [애자일](https://ggool.tistory.com/257)
-- [해시](https://ggool.tistory.com/255)
 
