@@ -32,9 +32,9 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 #### 📚 Latest Blog Posts
 
+- [프로그래머스: 2018 KAKAO BLIND RECRUITMENT - [3차] 파일명 정렬](https://ggool.tistory.com/265)
 - [0과 1](https://ggool.tistory.com/264)
 - [API 방식과 Socket 방식](https://ggool.tistory.com/263)
 - [개인정보 처리방침](https://ggool.tistory.com/262)
 - [fastlane/TestFlight](https://ggool.tistory.com/261)
-- [fastlane/ App Store Connect 앱 자동 생성](https://ggool.tistory.com/260)
 
