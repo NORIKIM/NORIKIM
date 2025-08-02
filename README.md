@@ -32,9 +32,9 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 #### 📚 Latest Blog Posts
 
+- [프로그래머스: 최댓값 만들기(1)](https://ggool.tistory.com/271)
+- [프로그래머스: 세균 증식](https://ggool.tistory.com/270)
+- [프로그래머스: 피자 나눠 먹기(1)](https://ggool.tistory.com/269)
 - [프로그래머스: 뒤집힌 문자열](https://ggool.tistory.com/268)
 - [프로그래머스: 짝수 홀수 개수](https://ggool.tistory.com/267)
-- [프로그래머스: 배열 뒤집기](https://ggool.tistory.com/266)
-- [프로그래머스: 2018 KAKAO BLIND RECRUITMENT - [3차] 파일명 정렬](https://ggool.tistory.com/265)
-- [0과 1](https://ggool.tistory.com/264)
 
