@@ -32,9 +32,9 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 #### 📚 Latest Blog Posts
 
+- [프로그래머스: 2019 카카오 개발자 겨울 인턴십 - 튜플](https://ggool.tistory.com/276)
 - [프로그래머스: 할인 행사](https://ggool.tistory.com/275)
 - [프로그래머스: 명예의 전당(1)](https://ggool.tistory.com/274)
 - [프로그래머스: 푸드 파이트 대회](https://ggool.tistory.com/273)
 - [프로그래머스: 가장 가까운 같은 글자](https://ggool.tistory.com/272)
-- [프로그래머스: 최댓값 만들기(1)](https://ggool.tistory.com/271)
 
