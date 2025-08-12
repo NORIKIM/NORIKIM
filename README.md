@@ -32,9 +32,9 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 #### 📚 Latest Blog Posts
 
+- [LeetCode: 222. Count Complete Tree Nodes](https://ggool.tistory.com/279)
 - [LeetCode: 35. Search Insert Position](https://ggool.tistory.com/278)
 - [프로그래머스: 힙 - 이중우선순위큐](https://ggool.tistory.com/277)
 - [프로그래머스: 2019 카카오 개발자 겨울 인턴십 - 튜플](https://ggool.tistory.com/276)
 - [프로그래머스: 할인 행사](https://ggool.tistory.com/275)
-- [프로그래머스: 명예의 전당(1)](https://ggool.tistory.com/274)
 
