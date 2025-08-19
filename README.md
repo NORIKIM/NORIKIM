@@ -32,9 +32,9 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 #### 📚 Latest Blog Posts
 
+- [LeetCode: 888. Fair Candy Swap](https://ggool.tistory.com/283)
 - [LeetCode: 704. Binary Search](https://ggool.tistory.com/282)
 - [LeetCode: 441. Arranging Coins](https://ggool.tistory.com/281)
 - [LeetCode: 349. Intersection of Two Arrays](https://ggool.tistory.com/280)
 - [LeetCode: 222. Count Complete Tree Nodes](https://ggool.tistory.com/279)
-- [LeetCode: 35. Search Insert Position](https://ggool.tistory.com/278)
 
