@@ -32,9 +32,9 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 #### 📚 Latest Blog Posts
 
+- [LeetCode: 100. Same Tree](https://ggool.tistory.com/285)
 - [LeetCode: 1337. The K Weakest Rows in a Matrix](https://ggool.tistory.com/284)
 - [LeetCode: 888. Fair Candy Swap](https://ggool.tistory.com/283)
 - [LeetCode: 704. Binary Search](https://ggool.tistory.com/282)
 - [LeetCode: 441. Arranging Coins](https://ggool.tistory.com/281)
-- [LeetCode: 349. Intersection of Two Arrays](https://ggool.tistory.com/280)
 
