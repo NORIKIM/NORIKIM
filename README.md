@@ -32,9 +32,9 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 #### 📚 Latest Blog Posts
 
+- [AI로 영상을 만들어 보자](https://ggool.tistory.com/287)
 - [LeetCode: 104. Maximum Depth of Binary Tree](https://ggool.tistory.com/286)
 - [LeetCode: 100. Same Tree](https://ggool.tistory.com/285)
 - [LeetCode: 1337. The K Weakest Rows in a Matrix](https://ggool.tistory.com/284)
 - [LeetCode: 888. Fair Candy Swap](https://ggool.tistory.com/283)
-- [LeetCode: 704. Binary Search](https://ggool.tistory.com/282)
 
